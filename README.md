@@ -1,1 +1,1 @@
-# mlops-proj
+# mlops-ai
